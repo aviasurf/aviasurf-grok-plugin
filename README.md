@@ -29,3 +29,7 @@ Aviasurf does not book flights, issue tickets, charge payment cards, cancel book
 ## Website
 
 https://aviasurf.com
+
+## License
+
+MIT License. See LICENSE.
